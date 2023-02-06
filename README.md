@@ -33,7 +33,7 @@ mutation {
       },
     ]
   }) {
-		id,
+    id,
     title,
     price
   }
