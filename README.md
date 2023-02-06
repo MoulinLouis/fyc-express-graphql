@@ -8,6 +8,7 @@ Source code for the videos related to the implementation of an express server wi
 1. Clone the repository.
 2. Run `npm install`
 3. Run `npm start`
+
 Access to the **GraphiQL** : http://localhost:3000
 
 Some query to work with the schema :
